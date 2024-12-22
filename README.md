@@ -1,6 +1,7 @@
 # Task Manager
 
 A command-line task management system built with Python that helps you track and organize your tasks using a SQL database.
+Project inspired by: https://roadmap.sh/projects/task-tracker
 
 ## Features
 
