@@ -2,7 +2,6 @@ from connector import create_connection, get_cursor
 from datetime import datetime
 from prettytable import PrettyTable
 
-
 def get_time():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
